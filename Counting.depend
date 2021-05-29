@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1593456935 source:c:\users\naimul hp spectre\cpp_projects\counting\stack.cpp
+	"Stack.h"
+
+1593456926 c:\users\naimul hp spectre\cpp_projects\counting\stack.h
+	<fstream>
+	<iostream>
+	<string>
+	"Stack.cpp"
+
+1593456935 c:\users\naimul hp spectre\cpp_projects\counting\stack.cpp
+	"Stack.h"
+
+1593457712 source:c:\users\naimul hp spectre\cpp_projects\counting\main.cpp
+	<iostream>
+	<cmath>
+	<limits>
+	"Stack.h"
+
